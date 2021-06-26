@@ -1,0 +1,25 @@
+.aquamarine {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background-color: aquamarine;
+  margin-right: 10px;
+}
+
+.blue {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-color: blue;
+  margin-right: 10px;
+
+}
+
+.red {
+  display: inline-block;
+  /* width: 200px; */
+  height: 200px;
+  background-color:crimson;
+  margin-right: 10px;
+
+}
