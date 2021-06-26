@@ -1,0 +1,9 @@
+.cat {
+  width: 150px;
+  height: 150px;
+  position: fixed;
+  transform: translate(-50%, -50%);
+  transition: top .3s;
+  transition: left .3s;
+
+}
